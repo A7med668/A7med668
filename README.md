@@ -1,3 +1,5 @@
+<img src="https://via.placeholder.com/1000x300.png?text=Welcome+to+Ahmed's+Profile!" alt="Welcome Banner" width="100%">
+
 # 👋 Hi, I'm Ahmed Hussein Ali Abdelsalam Hussein  
 
 ### 👨‍💻 About Me  
