@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fe-science.se%2Fpeople-and-research%2Fmcps%2Fdata-science%2F&psig=AOvVaw3kFgyi-n7sqlpkzi0twd70&ust=1735399749041000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi6542iyIoDFQAAAAAdAAAAABAd" alt="Welcome Banner" width="100%">
+<img src="https://e-science.se/wp-content/uploads/2019/01/neural-network-illustration.jpg" alt="Description of the image" width="100%">
 # 👋 Hi, I'm Ahmed Hussein Ali Abdelsalam Hussein  
 
 ### 👨‍💻 About Me  
