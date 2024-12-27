@@ -3,7 +3,6 @@
 
 ### 👨‍💻 About Me  
 - 🎓 Data Science Junior at the Faculty of Artificial Intelligence, Menoufia University.  
-- 🔭 Currently working on **Stock Market Price Prediction** and **Sentiment Analysis with Neural Networks**.  
 - 🌱 Passionate about **Data Science**, **Machine Learning**, and **Computer Vision**.  
 - 💡 Always curious to explore new technologies and solve challenging problems.  
 
