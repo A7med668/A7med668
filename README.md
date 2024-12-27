@@ -1,4 +1,4 @@
-<img src="[https://e-science.se/wp-content/uploads/2019/01/neural-network-illustration.jpg](https://media.licdn.com/dms/image/v2/D5612AQGdVZoJf6qrDw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721197684463?e=1740614400&v=beta&t=O6Gct2wKq5_pUdN6YJKJIDhq4OQoEyF7gRXfrrdgxEU)" alt="Description of the image" width="100%">
+<img src="https://www.american.edu/spa/data-science/images/Data-Science-Institute_banner.jpg" alt="Description of the image" width="100%">
 # 👋 Hi, I'm Ahmed Hussein Ali Abdelsalam Hussein  
 
 ### 👨‍💻 About Me  
