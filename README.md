@@ -21,13 +21,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:ahmed.hussein@example.com">
+  <a href="mailto:ahmedhussein12215@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-hussein-07887431a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/A7med668" target="_blank">
+  <a href="https://a7med668.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
