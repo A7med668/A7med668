@@ -3,7 +3,7 @@
 ### 👋 Hi, I'm Ahmed Hussein Ali Abdelsalam Hussein  
 
 ### 👨‍💻 About Me  
-- 🎓 Data Science Junior at the Faculty of Artificial Intelligence, Menoufia University.  
+- 🎓 Data Science Undergraduate at the Faculty of Artificial Intelligence, Menoufia University.  
 - 🌱 Passionate about **Data Science**, **Machine Learning**, and **Computer Vision**.  
 - 💡 Always curious to explore new technologies and solve challenging problems.  
 
