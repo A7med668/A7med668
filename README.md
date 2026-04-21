@@ -142,12 +142,6 @@
 - 🎯 Specialisation: **Machine Learning**, **Multi‑Agent Systems**, **Data Engineering**  
 - 📜 Relevant coursework: Advanced Databases, Statistical Learning, Deep Learning, LLM Architecture
 
-**Certifications (in progress/completed)**  
-- 🧠 DeepLearning.AI – LangChain for LLM Application Development  
-- 🤖 DeepLearning.AI – Building Multi‑Agent Systems with LangGraph  
-- 📊 Microsoft Certified: Power BI Data Analyst Associate  
-- ☁️ AWS Cloud Practitioner (foundations)
-
 <br/>
 
 ## 🤝 Let's Collaborate!
