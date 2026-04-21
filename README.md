@@ -137,7 +137,7 @@
 
 ## 🎓 Education & Certifications
 
-**Bachelor of Data Science** | *Faculty of Artificial Intelligence, Menoufia University* (2023–2027)  
+**Bachelor of Data Science** | *Faculty of Artificial Intelligence, Menoufia University* (2022–2026)  
 - 📍 Menoufia, Egypt  
 - 🎯 Specialisation: **Machine Learning**, **Multi‑Agent Systems**, **Data Engineering**  
 - 📜 Relevant coursework: Advanced Databases, Statistical Learning, Deep Learning, LLM Architecture
